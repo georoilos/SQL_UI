@@ -12,3 +12,11 @@ C:\Users\George\Documents\Visual Studio 2015\Projects\CookBook\CookBook\obj\Debu
 C:\Users\George\Source\Repos\SQL_UI\CookBook\bin\Debug\CookBook.exe.config
 C:\Users\George\Source\Repos\SQL_UI\CookBook\obj\Debug\CookBook.exe
 C:\Users\George\Source\Repos\SQL_UI\CookBook\obj\Debug\CookBook.pdb
+C:\Users\George\Source\Repos\SQL_UI\CookBook\bin\Debug\CookBook.mdf
+C:\Users\George\Source\Repos\SQL_UI\CookBook\bin\Debug\CookBook_log.ldf
+C:\Users\George\Source\Repos\SQL_UI\CookBook\bin\Debug\CookBook.exe
+C:\Users\George\Source\Repos\SQL_UI\CookBook\bin\Debug\CookBook.pdb
+C:\Users\George\Source\Repos\SQL_UI\CookBook\obj\Debug\CookBook.csprojResolveAssemblyReference.cache
+C:\Users\George\Source\Repos\SQL_UI\CookBook\obj\Debug\CookBook.FormMain.resources
+C:\Users\George\Source\Repos\SQL_UI\CookBook\obj\Debug\CookBook.Properties.Resources.resources
+C:\Users\George\Source\Repos\SQL_UI\CookBook\obj\Debug\CookBook.csproj.GenerateResource.Cache
